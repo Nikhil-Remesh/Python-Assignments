@@ -2,7 +2,7 @@ class Person:
     def __init__(self):
         self.name="nikhil"
         self.age=10
-        self.address="hai"
+        self.address="Kannur,Kerala"
     def update(self):
         name=input("Enter new name: ")
         age=input("Enter new age: ")
